@@ -1,2 +1,0 @@
-# Logistic_Regression
-student_performance_data_answers
